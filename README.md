@@ -7,7 +7,7 @@
 	<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*p3B6NfsIRMGvXkK9.jpg" alt="400" width="600"/>
 </p>
 
-Image taken fron this [source](https://medium.com/analytics-vidhya/logistic-regression-46a0f3cdecef). A great [Medium](https://medium.com/) article on Logistic Regression byt the way.
+Image taken from this [source](https://medium.com/analytics-vidhya/logistic-regression-46a0f3cdecef). A great [Medium](https://medium.com/) article on Logistic Regression byt the way.
 
 This case study delves into the math behind logistic regression in a Python environment. We've adapted this case study from [Lab 5 in the CS109](https://github.com/cs109/2015lab5) course. Please feel free to check out the original lab, both for more exercises, as well as solutions.
 
